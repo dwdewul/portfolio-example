@@ -12,13 +12,13 @@
 body {
     padding-bottom: 40px;
     color: #2d3c49;
-        font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300;
 }
 a:link {
     color: #2d3c49;
 }
-.app-images{
+.app-images {
     height: 225px;
 }
 .name {
